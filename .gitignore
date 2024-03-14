@@ -1,0 +1,6 @@
+﻿.idea
+.vs
+claude-riliaBOT/bin
+claude-riliaBOT/obj
+claude-riliaBOT/Rust/toml_create/Cargo.lock
+claude-riliaBOT/TomlCreate.dll
